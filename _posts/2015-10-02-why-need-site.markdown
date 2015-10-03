@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Зачем сайт?"
+title:  "Зачем этот сайт?"
 date:   2015-10-02 03:10:43
 categories: blog posts
 ---
