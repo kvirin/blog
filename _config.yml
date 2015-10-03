@@ -2,9 +2,9 @@
 title: Filip Kvirin
 email: filip@kvirin.me
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Личный сайт и блог Филипа Квирина. Здесь собраны материалы и рассуждения на
+  разнообразные темы: литература, общество, жизнь, самоанализ, наблюдения,
+  творчество, известные люди, программирование, технологии, будущее и прочее.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kvirin.me/" # the base hostname & protocol for your site
 twitter_username: kvirin
